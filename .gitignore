@@ -1,0 +1,57 @@
+# Archivos compilados
+*.exe
+*.o
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+
+# Directorios de compilación
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Archivos de datos (opcional - descomenta si no quieres subir los datos)
+# postits.dat
+
+# Archivos temporales del sistema
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs
+*.vcxproj*
+*.sln
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+.builds
+.vscode/
+.vs/
+
+# Archivos de backup
+*.bak
+*.orig
+*.rej
+
+# Logs
+*.log
+
+# Archivos de configuración local
+config.local
+settings.local
+
+# Archivos generados automáticamente
+*.autosave

@@ -1,0 +1,34 @@
+#include "windows.h"
+
+// Icono principal de la aplicación
+1 ICON "postit.ico"
+
+// Información de versión
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+FILEFLAGS 0
+FILEOS VOS__WINDOWS32
+FILETYPE VFT_APP
+FILESUBTYPE VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName", "Post-it Application"
+            VALUE "FileDescription", "Aplicación de Notas Post-it"
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "PostIt"
+            VALUE "LegalCopyright", "Copyright (C) 2025"
+            VALUE "OriginalFilename", "PostIt.exe"
+            VALUE "ProductName", "Post-it Notes"
+            VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
