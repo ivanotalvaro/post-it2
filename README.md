@@ -187,8 +187,8 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para detalles.
 
 ## 👨‍💻 Autor
 
-**Iván Otal Alvaro** - [@ivanotalvaro](https://github.com/ivanotalvaro)
-
+**Iván Otalvaro** - [@ivanotalvaro](https://github.com/ivanotalvaro)
+0
 ---
 
 ⭐ **¡Dale una estrella si te gusta el proyecto!** ⭐
